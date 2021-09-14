@@ -1,0 +1,13 @@
+.buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 32%;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-row-gap: 50px;
+
+    padding: 2rem;
+    background-color: rgb(31, 31, 31);
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
